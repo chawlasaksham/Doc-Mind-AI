@@ -1,0 +1,121 @@
+Transaction_ID,Date,Region,Product_Category,Units_Sold,Unit_Price,Discount_Pct,Customer_Rating,Payment_Method,Gross_Revenue,Net_Revenue,Operating_Cost,Net_Profit
+TX-1000,2025-01-01,North America,Consulting,28,850,20,4.8,PayPal,23800,19040.0,11164.29,7875.71
+TX-1001,2025-01-03,Latin America,Consulting,30,320,10,4.8,Credit Card,9600,8640.0,4388.38,4251.62
+TX-1002,2025-01-05,Asia-Pacific,Cloud Services,29,320,20,3.5,Corporate Net 30,9280,7424.0,3206.39,4217.61
+TX-1003,2025-01-07,Europe,Enterprise Software,6,500,10,5.0,PayPal,3000,2700.0,1271.55,1428.45
+TX-1004,2025-01-09,North America,Enterprise Software,35,320,10,3.5,Corporate Net 30,11200,10080.0,4946.97,5133.03
+TX-1005,2025-01-11,North America,Cloud Services,37,150,5,4.0,Corporate Net 30,5550,5272.5,2960.4,2312.1
+TX-1006,2025-01-13,North America,Consulting,24,1200,15,3.5,Credit Card,28800,24480.0,13285.16,11194.84
+TX-1007,2025-01-15,Asia-Pacific,Consulting,29,1200,0,4.2,PayPal,34800,34800.0,17018.04,17781.96
+TX-1008,2025-01-17,Europe,Enterprise Software,31,850,5,4.8,Wire Transfer,26350,25032.5,16186.74,8845.76
+TX-1009,2025-01-19,Asia-Pacific,Cloud Services,35,320,5,4.0,Credit Card,11200,10640.0,5867.36,4772.64
+TX-1010,2025-01-21,North America,Cloud Services,33,150,15,3.5,Wire Transfer,4950,4207.5,1932.53,2274.97
+TX-1011,2025-01-23,Latin America,Enterprise Software,21,850,0,5.0,Corporate Net 30,17850,17850.0,7594.2,10255.8
+TX-1012,2025-01-25,Asia-Pacific,Enterprise Software,32,500,20,4.2,Corporate Net 30,16000,12800.0,5609.15,7190.85
+TX-1013,2025-01-27,North America,Cloud Services,23,850,20,4.2,Credit Card,19550,15640.0,7217.69,8422.31
+TX-1014,2025-01-29,North America,Support Subscriptions,33,850,5,3.5,Credit Card,28050,26647.5,11729.44,14918.06
+TX-1015,2025-01-31,North America,Cloud Services,3,320,0,4.8,Wire Transfer,960,960.0,428.78,531.22
+TX-1016,2025-02-02,North America,Cloud Services,18,500,5,3.5,PayPal,9000,8550.0,4029.39,4520.61
+TX-1017,2025-02-04,Europe,Hardware Devices,25,850,10,4.0,Wire Transfer,21250,19125.0,8478.94,10646.06
+TX-1018,2025-02-06,Europe,Cloud Services,31,150,5,3.5,Credit Card,4650,4417.5,2757.37,1660.13
+TX-1019,2025-02-08,North America,Support Subscriptions,3,150,5,4.2,Wire Transfer,450,427.5,179.57,247.93
+TX-1020,2025-02-10,Europe,Support Subscriptions,24,1200,20,3.5,Credit Card,28800,23040.0,12237.19,10802.81
+TX-1021,2025-02-12,North America,Cloud Services,32,500,20,4.8,Wire Transfer,16000,12800.0,6433.27,6366.73
+TX-1022,2025-02-14,North America,Cloud Services,22,500,20,5.0,Credit Card,11000,8800.0,5681.23,3118.77
+TX-1023,2025-02-16,North America,Cloud Services,23,1200,10,4.5,Credit Card,27600,24840.0,10631.76,14208.24
+TX-1024,2025-02-18,Europe,Cloud Services,2,850,20,3.5,Credit Card,1700,1360.0,679.27,680.73
+TX-1025,2025-02-20,Asia-Pacific,Enterprise Software,27,500,0,4.8,PayPal,13500,13500.0,8671.96,4828.04
+TX-1026,2025-02-22,North America,Hardware Devices,2,150,15,4.8,Wire Transfer,300,255.0,157.18,97.82
+TX-1027,2025-02-24,Europe,Cloud Services,26,150,0,5.0,Wire Transfer,3900,3900.0,2356.65,1543.35
+TX-1028,2025-02-26,Europe,Enterprise Software,17,320,0,4.2,Wire Transfer,5440,5440.0,2526.75,2913.25
+TX-1029,2025-02-28,North America,Cloud Services,33,500,20,4.8,Credit Card,16500,13200.0,5843.93,7356.07
+TX-1030,2025-03-02,Europe,Support Subscriptions,9,850,15,4.8,Wire Transfer,7650,6502.5,3687.96,2814.54
+TX-1031,2025-03-04,North America,Enterprise Software,39,1200,15,4.8,Wire Transfer,46800,39780.0,25154.64,14625.36
+TX-1032,2025-03-06,North America,Enterprise Software,29,1200,15,4.8,Credit Card,34800,29580.0,15949.26,13630.74
+TX-1033,2025-03-08,Latin America,Cloud Services,26,850,10,4.0,Corporate Net 30,22100,19890.0,10798.34,9091.66
+TX-1034,2025-03-10,Latin America,Support Subscriptions,35,2400,20,4.0,Credit Card,84000,67200.0,31583.65,35616.35
+TX-1035,2025-03-12,Asia-Pacific,Enterprise Software,25,320,15,4.2,Wire Transfer,8000,6800.0,4028.14,2771.86
+TX-1036,2025-03-14,North America,Hardware Devices,24,1200,10,3.5,Credit Card,28800,25920.0,11580.04,14339.96
+TX-1037,2025-03-16,North America,Consulting,13,500,5,4.8,Corporate Net 30,6500,6175.0,2969.68,3205.32
+TX-1038,2025-03-18,Europe,Enterprise Software,7,320,5,5.0,Credit Card,2240,2128.0,1077.53,1050.47
+TX-1039,2025-03-20,Europe,Hardware Devices,36,500,10,3.5,Wire Transfer,18000,16200.0,8535.82,7664.18
+TX-1040,2025-03-22,North America,Cloud Services,20,150,10,5.0,Corporate Net 30,3000,2700.0,1243.63,1456.37
+TX-1041,2025-03-24,Europe,Hardware Devices,1,320,20,3.5,PayPal,320,256.0,109.75,146.25
+TX-1042,2025-03-26,North America,Hardware Devices,8,1200,20,4.2,Wire Transfer,9600,7680.0,4244.39,3435.61
+TX-1043,2025-03-28,Latin America,Cloud Services,16,320,5,4.8,Corporate Net 30,5120,4864.0,2296.57,2567.43
+TX-1044,2025-03-30,North America,Enterprise Software,14,320,15,4.8,Corporate Net 30,4480,3808.0,2076.54,1731.46
+TX-1045,2025-04-01,Europe,Consulting,12,320,5,4.5,PayPal,3840,3648.0,1599.98,2048.02
+TX-1046,2025-04-03,North America,Cloud Services,23,2400,15,5.0,Credit Card,55200,46920.0,24411.77,22508.23
+TX-1047,2025-04-05,Europe,Enterprise Software,15,320,15,3.5,Credit Card,4800,4080.0,2175.24,1904.76
+TX-1048,2025-04-07,Europe,Enterprise Software,28,500,20,3.5,Wire Transfer,14000,11200.0,4625.11,6574.89
+TX-1049,2025-04-09,North America,Cloud Services,34,150,0,4.0,PayPal,5100,5100.0,2469.17,2630.83
+TX-1050,2025-04-11,Latin America,Hardware Devices,2,850,0,4.5,Credit Card,1700,1700.0,737.13,962.87
+TX-1051,2025-04-13,Asia-Pacific,Enterprise Software,32,320,10,4.0,PayPal,10240,9216.0,3832.42,5383.58
+TX-1052,2025-04-15,Latin America,Cloud Services,23,1200,20,4.0,Credit Card,27600,22080.0,14296.58,7783.42
+TX-1053,2025-04-17,Asia-Pacific,Enterprise Software,22,320,15,4.0,Corporate Net 30,7040,5984.0,2875.84,3108.16
+TX-1054,2025-04-19,Europe,Hardware Devices,25,1200,0,5.0,Credit Card,30000,30000.0,18074.06,11925.94
+TX-1055,2025-04-21,Latin America,Enterprise Software,22,500,15,5.0,PayPal,11000,9350.0,4335.22,5014.78
+TX-1056,2025-04-23,North America,Hardware Devices,22,1200,0,4.2,Corporate Net 30,26400,26400.0,15057.92,11342.08
+TX-1057,2025-04-25,North America,Cloud Services,6,850,0,4.2,Corporate Net 30,5100,5100.0,3009.29,2090.71
+TX-1058,2025-04-27,North America,Support Subscriptions,15,150,0,4.0,Corporate Net 30,2250,2250.0,1235.05,1014.95
+TX-1059,2025-04-29,North America,Enterprise Software,37,1200,20,4.5,PayPal,44400,35520.0,18395.6,17124.4
+TX-1060,2025-05-01,North America,Cloud Services,33,1200,5,3.5,Wire Transfer,39600,37620.0,18921.36,18698.64
+TX-1061,2025-05-03,North America,Enterprise Software,8,150,15,5.0,Wire Transfer,1200,1020.0,496.96,523.04
+TX-1062,2025-05-05,Asia-Pacific,Support Subscriptions,5,850,20,4.5,Wire Transfer,4250,3400.0,2150.1,1249.9
+TX-1063,2025-05-07,North America,Consulting,39,320,20,4.8,PayPal,12480,9984.0,6066.83,3917.17
+TX-1064,2025-05-09,North America,Cloud Services,4,1200,20,5.0,Corporate Net 30,4800,3840.0,2462.43,1377.57
+TX-1065,2025-05-11,Europe,Hardware Devices,6,150,20,5.0,Wire Transfer,900,720.0,310.37,409.63
+TX-1066,2025-05-13,North America,Consulting,32,500,20,4.2,PayPal,16000,12800.0,7458.78,5341.22
+TX-1067,2025-05-15,Asia-Pacific,Cloud Services,30,150,10,3.5,Wire Transfer,4500,4050.0,2570.07,1479.93
+TX-1068,2025-05-17,North America,Cloud Services,35,500,15,3.5,Credit Card,17500,14875.0,6623.96,8251.04
+TX-1069,2025-05-19,Latin America,Enterprise Software,16,850,20,4.8,Wire Transfer,13600,10880.0,4532.87,6347.13
+TX-1070,2025-05-21,Asia-Pacific,Enterprise Software,13,320,15,4.8,Wire Transfer,4160,3536.0,2069.55,1466.45
+TX-1071,2025-05-23,North America,Consulting,30,150,10,5.0,Corporate Net 30,4500,4050.0,2201.65,1848.35
+TX-1072,2025-05-25,North America,Support Subscriptions,19,2400,10,4.0,PayPal,45600,41040.0,25053.16,15986.84
+TX-1073,2025-05-27,Asia-Pacific,Hardware Devices,17,1200,15,4.2,Corporate Net 30,20400,17340.0,7541.91,9798.09
+TX-1074,2025-05-29,Asia-Pacific,Cloud Services,19,850,0,4.2,Corporate Net 30,16150,16150.0,9670.89,6479.11
+TX-1075,2025-05-31,Asia-Pacific,Cloud Services,28,150,5,5.0,Corporate Net 30,4200,3990.0,1797.12,2192.88
+TX-1076,2025-06-02,Asia-Pacific,Hardware Devices,26,1200,0,4.5,Corporate Net 30,31200,31200.0,13756.52,17443.48
+TX-1077,2025-06-04,North America,Consulting,37,150,0,4.0,Corporate Net 30,5550,5550.0,2447.92,3102.08
+TX-1078,2025-06-06,North America,Consulting,26,500,0,5.0,Wire Transfer,13000,13000.0,7847.37,5152.63
+TX-1079,2025-06-08,North America,Consulting,23,150,20,4.0,Corporate Net 30,3450,2760.0,1562.99,1197.01
+TX-1080,2025-06-10,Asia-Pacific,Hardware Devices,9,2400,10,4.0,Corporate Net 30,21600,19440.0,10318.1,9121.9
+TX-1081,2025-06-12,Europe,Enterprise Software,12,150,0,4.0,PayPal,1800,1800.0,881.47,918.53
+TX-1082,2025-06-14,North America,Enterprise Software,1,150,10,5.0,Credit Card,150,135.0,83.61,51.39
+TX-1083,2025-06-16,North America,Consulting,1,2400,15,4.2,Wire Transfer,2400,2040.0,1016.15,1023.85
+TX-1084,2025-06-18,North America,Hardware Devices,34,850,5,4.2,Wire Transfer,28900,27455.0,16586.93,10868.07
+TX-1085,2025-06-20,North America,Enterprise Software,32,150,15,4.0,Wire Transfer,4800,4080.0,2079.92,2000.08
+TX-1086,2025-06-22,Asia-Pacific,Enterprise Software,25,2400,15,4.5,Corporate Net 30,60000,51000.0,25206.04,25793.96
+TX-1087,2025-06-24,Europe,Hardware Devices,1,1200,20,3.5,Corporate Net 30,1200,960.0,495.04,464.96
+TX-1088,2025-06-26,Asia-Pacific,Enterprise Software,16,500,5,5.0,Corporate Net 30,8000,7600.0,3612.62,3987.38
+TX-1089,2025-06-28,Europe,Enterprise Software,39,500,15,3.5,PayPal,19500,16575.0,9727.91,6847.09
+TX-1090,2025-06-30,North America,Cloud Services,5,150,15,4.5,Credit Card,750,637.5,335.12,302.38
+TX-1091,2025-07-02,Asia-Pacific,Hardware Devices,22,850,5,5.0,Corporate Net 30,18700,17765.0,8137.31,9627.69
+TX-1092,2025-07-04,Asia-Pacific,Hardware Devices,29,850,5,4.0,Credit Card,24650,23417.5,14633.45,8784.05
+TX-1093,2025-07-06,Europe,Enterprise Software,3,1200,15,4.2,PayPal,3600,3060.0,1517.68,1542.32
+TX-1094,2025-07-08,Asia-Pacific,Hardware Devices,12,150,5,3.5,Wire Transfer,1800,1710.0,916.37,793.63
+TX-1095,2025-07-10,Europe,Enterprise Software,26,500,15,4.8,Corporate Net 30,13000,11050.0,6924.13,4125.87
+TX-1096,2025-07-12,Europe,Cloud Services,16,850,15,4.8,Credit Card,13600,11560.0,6428.05,5131.95
+TX-1097,2025-07-14,Europe,Hardware Devices,37,150,20,4.5,Credit Card,5550,4440.0,1905.76,2534.24
+TX-1098,2025-07-16,North America,Hardware Devices,22,850,0,4.0,Corporate Net 30,18700,18700.0,11873.72,6826.28
+TX-1099,2025-07-18,North America,Consulting,29,2400,15,3.5,Wire Transfer,69600,59160.0,32947.8,26212.2
+TX-1100,2025-07-20,North America,Hardware Devices,14,850,10,4.0,Wire Transfer,11900,10710.0,5180.71,5529.29
+TX-1101,2025-07-22,Europe,Cloud Services,28,500,0,3.5,Wire Transfer,14000,14000.0,6087.45,7912.55
+TX-1102,2025-07-24,North America,Enterprise Software,5,320,0,4.5,PayPal,1600,1600.0,957.61,642.39
+TX-1103,2025-07-26,Europe,Cloud Services,30,1200,0,4.5,Credit Card,36000,36000.0,19980.65,16019.35
+TX-1104,2025-07-28,Latin America,Cloud Services,5,1200,20,4.8,Credit Card,6000,4800.0,2560.15,2239.85
+TX-1105,2025-07-30,North America,Enterprise Software,12,500,15,4.0,Credit Card,6000,5100.0,3179.71,1920.29
+TX-1106,2025-08-01,Europe,Support Subscriptions,16,850,20,5.0,PayPal,13600,10880.0,6496.98,4383.02
+TX-1107,2025-08-03,Asia-Pacific,Cloud Services,26,150,15,4.8,Credit Card,3900,3315.0,1451.7,1863.3
+TX-1108,2025-08-05,North America,Consulting,26,850,20,4.0,PayPal,22100,17680.0,8449.81,9230.19
+TX-1109,2025-08-07,North America,Hardware Devices,21,500,20,4.8,Wire Transfer,10500,8400.0,3881.83,4518.17
+TX-1110,2025-08-09,North America,Consulting,39,1200,10,5.0,Corporate Net 30,46800,42120.0,24681.75,17438.25
+TX-1111,2025-08-11,North America,Cloud Services,36,850,20,4.2,Credit Card,30600,24480.0,9997.22,14482.78
+TX-1112,2025-08-13,Latin America,Cloud Services,33,1200,5,4.2,Credit Card,39600,37620.0,20407.81,17212.19
+TX-1113,2025-08-15,Asia-Pacific,Cloud Services,30,150,10,4.2,Wire Transfer,4500,4050.0,2391.99,1658.01
+TX-1114,2025-08-17,Europe,Enterprise Software,37,1200,20,4.2,Corporate Net 30,44400,35520.0,21993.68,13526.32
+TX-1115,2025-08-19,Asia-Pacific,Hardware Devices,23,1200,0,3.5,PayPal,27600,27600.0,13400.36,14199.64
+TX-1116,2025-08-21,Asia-Pacific,Cloud Services,10,320,5,4.2,Corporate Net 30,3200,3040.0,1840.16,1199.84
+TX-1117,2025-08-23,North America,Enterprise Software,5,320,5,5.0,Wire Transfer,1600,1520.0,650.04,869.96
+TX-1118,2025-08-25,Asia-Pacific,Hardware Devices,36,2400,5,4.5,Wire Transfer,86400,82080.0,50201.2,31878.8
+TX-1119,2025-08-27,Europe,Enterprise Software,34,320,10,4.5,Corporate Net 30,10880,9792.0,4228.89,5563.11
